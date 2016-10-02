@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfFooBar",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfFooBar",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
