@@ -1,0 +1,14 @@
+{
+	"category" : "BarBar",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"count" ],
+	"name" : "BARCounter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
