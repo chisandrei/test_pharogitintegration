@@ -10,5 +10,5 @@
 	"name" : "BaselineOfFooBar",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "BaselineOf",
 	"type" : "normal" }
